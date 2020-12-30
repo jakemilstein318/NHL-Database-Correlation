@@ -1,0 +1,124 @@
+Date,Opponent,Goals_For,Goals_Against,Shots_On_Goal,Result
+5/10/2017,Colorado Avalanche,2,3,22,L
+10/8/2017,Montreal Canadiens,2,4,23,L
+10/10/2017,St. Louis Blues,1,6,19,L
+10/14/2017,New Jersey Devils,2,4,20,L
+10/15/2017,Pittsburgh Penguins,4,1,28,W
+10/19/2017,New York Islanders,3,4,24,L
+10/21/2017,Nashville Predators,4,1,29,W
+10/23/2017,San Jose Sharks,1,4,20,L
+10/26/2017,Arizona Coyotes,5,2,33,W
+10/31/2017,Vegas Golden Knights,6,1,35,W
+11/6/2017,Columbus Blue Jackets,5,2,34,W
+11/7/2017,Boston Bruins,3,5,36,L
+11/11/2017,Edmonton Oilers,4,2,31,W
+11/19/2017,Ottawa Senators,3,0,29,W
+11/24/2017,Detroit Red Wings,2,3,23,L
+11/26/2017,Vancouver Canucks,4,3,25,W
+11/28/2017,Florida Panthers,4,5,30,L
+12/1/2017,Carolina Hurricanes,5,1,35,W
+12/9/2017,New Jersey Devils,5,3,37,W
+12/11/2017,Dallas Stars,1,3,19,L
+12/15/2017,Los Angeles Kings,4,2,31,W
+12/16/2017,Anaheim Ducks,1,1,29,W
+12/23/2017,Toronto Maple Leafs,2,4,19,L
+12/27/2017,Washington Capitals,1,1,17,W
+1/3/2018,Chicago Blackhawks,2,5,21,L
+1/13/2018,New York Islanders,2,7,21,L
+1/16/2018,Philadelphia Flyers,5,1,40,W
+1/18/1208,Buffalo Sabres,4,3,38,W
+2/1/2018,Toronto Maple Leafs,0,6,17,L
+2/7/2018,Boston Bruins,1,4,19,L
+2/9/2018,Calgary Flames,4,3,27,W
+2/18/2018,Philadelphia Flyers,4,4,26,L
+2/23/2018,Minnesota Wild,1,7,20,L
+2/25/2018,Detroit Red Wings,2,3,23,L
+3/6/2018,Winnipeg Jets,0,5,18,L
+3/12/2018,Carolina Hurricanes,6,2,41,W
+3/13/2018,Pittsburgh Penguins,4,3,34,W
+3/20/2018,Columbus Blue Jackets,3,5,33,L
+3/24/2018,Buffalo Sabres,5,1,38,W
+3/26/2018,Washington Capitals,2,2,38,L
+3/30/2018,Tampa Bay Lightning,3,4,20,L
+10/4/2018,Nashville Predators,2,3,20,L
+10/11/2018,San Jose Sharks,3,2,23,W
+10/13/2018,Edmonton Oilers,1,6,18,L
+10/16/2018,Colorado Avalanche,3,2,19,W
+10/21/2018,Calgary Flames,1,4,32,L
+10/23/2018,Florida Panthers,5,1,33,W
+11/4/2018,Buffalo Sabres,3,2,27,W
+11/6/2018,Montreal Canadiens,5,3,30,W
+11/12/2018,Vancouver Canucks,2,4,29,W
+11/17/2018,Florida Panthers,4,2,31,W
+11/19/2018,Dallas Stars,2,1,19,W
+11/21/2018,New York Islanders,5,0,39,W
+11/22/2018,Washington Capitals,2,5,24,L
+11/26/2018,Ottawa Senators,4,0,27,W
+12/2/2018,Winnipeg Jets,3,2,31,L
+12/14/2018,Arizona Coyotes,3,4,32,L
+12/16/2018,Vegas Golden Knights,3,1,22,L
+12/18/2018,Anaheim Ducks,3,1,35,W
+12/23/2018,Philadelphia Flyers,2,4,18,L
+12/27/2018,Columbus Blue Jackets,3,4,28,L
+1/2/2019,Pittsburgh Penguins,2,5,22,L
+1/10/2019,New York Islanders,3,4,28,L
+1/15/2019,Carolina Hurricanes,6,1,44,W
+1/17/2019,Chicago Blackhawks,4,2,36,W
+1/29/2019,Philadelphia Flyers,0,7,19,L
+2/2/2019,Tampa Bay Lightning,2,3,24,L
+2/4/2019,Los Angeles Kings,3,4,31,L
+2/6/2019,Boston Bruins,4,3,29,W
+2/8/2019,Carolina Hurricanes,0,2,28,L
+2/10/2019,Toronto Maple Leafs,4,1,33,W
+2/21/2019,Minnesota Wild,1,4,17,L
+2/23/2019,New Jersey Devils,5,2,39,W
+2/27/2019,Tampa Bay Lightning,3,4,32,L
+3/1/2019,Montreal Canadiens,2,4,27,L
+3/3/2019,Washington Capitals,2,3,19,L
+3/9/2019,New Jersey Devils,7,2,40,W
+3/19/2019,Detroit Red Wings,2,6,24,L
+3/20/2019,Pittsburgh Penguins,2,5,22,L
+3/29/2019,St. Louis Blues,4,2,35,W
+4/3/2019,Ottawa Senators,1,4,20,L
+4/5/2019,Columbus Blue Jackets,2,3,25,L
+10/3/2019,Winnipeg Jets,6,2,37,W
+10/12/2019,Edmonton Oilers,1,4,21,L
+10/20/2019,Vancouver Canucks,2,3,23,L
+10/22/2019,Arizona Coyotes,2,3,23,L
+10/24/2019,Buffalo Sabres,6,2,37,W
+10/27/2019,Boston Bruins,1,7,18,L
+10/29/2019,Tampa Bay Lightning,4,1,33,W
+11/4/2019,Ottawa Senators,2,6,21,L
+11/6/2019,Detroit Red Wings,5,1,36,W
+11/10/2019,Florida Panthers,5,6,37,L
+11/12/2019,Pittsburgh Penguins,3,2,30,W
+11/20/2019,Washington Capitals,4,1,33,W
+11/25/2019,Minnesota Wild,3,2,25,W
+11/27/2019,Carolina Hurricanes,3,2,26,W
+12/2/2019,Vegas Golden Knights,1,4,19,L
+12/6/2019,Montreal Canadiens,1,4,21,L
+12/16/2019,Nashville Predators,2,5,21,L
+12/20/2019,Toronto Maple Leafs,1,6,19,L
+12/22/2019,Anaheim Ducks,5,1,36,W
+12/27/2019,Carolina Hurricanes,5,2,33,W
+1/7/2020,Colorado Avalanche,6,2,35,W
+1/9/2020,New Jersey Devils,6,2,40,W
+1/13/2020,New York Islanders,6,2,39,W
+1/19/2020,Columbus Blue Jackets,1,5,13,L
+1/21/2020,New York Islanders,5,1,39,L
+1/31/2020,Detroit Red Wings,4,2,33,W
+2/3/2020,Dallas Stars,3,5,28,L
+2/5/2020,Toronto Maple Leafs,5,2,39,W
+2/7/2020,Buffalo Sabres,1,5,19,L
+2/9/2020,Los Angeles Kings,4,1,22,W
+2/16/2020,Boston Bruins,1,3,20,L
+2/22/2020,San Jose Sharks,3,2,26,W
+3/1/2020,Philadelphia Flyers,3,5,29,L
+3/3/2020,St. Louis Blues,1,3,18,L
+3/5/2020,Washington Capitals,6,1,40,W
+3/7/2020,New Jersey Devils,2,6,21,L
+3/16/2020,Calgary Flames,null,null,null,null
+3/18/2020,Pittsburgh Penguins,null,null,null,null
+3/24/2020,Columbus Blue Jackets,null,null,null,null
+4/1/2020,Philadelphia Flyers,null,null,null,null
+4/4/2020,Chicago Blackhawks,null,null,null,null
